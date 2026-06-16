@@ -32,8 +32,8 @@ Objectif : appliquer mes compétences en Data Science dans un cadre professionne
 
 ---
 
-## 📬 Contact
-- 📧 Email : salifsamak09@gmail.com  
-- 🔗 LinkedIn : https://www.linkedin.com/in/salif-samak%C3%A9-95243b295/  
+## Contact
+- Email : salifsamak09@gmail.com  
+- LinkedIn : https://www.linkedin.com/in/salif-samak%C3%A9-95243b295/  
 
 
